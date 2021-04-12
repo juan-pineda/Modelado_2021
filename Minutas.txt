@@ -1,0 +1,310 @@
+﻿MINUTAS MODELADO MATEMÁTICO 2021
+
+
+
+
+Clase 24 de Febrero
+
+
+Taller de git y github online: https://www.youtube.com/watch?v=oZm6F_f9o4Q
+
+
+
+
+Clase 3 de Marzo
+
+
+Profesor : Juan Carlos Basto Pineda
+juan.basto.pineda@gmail.com
+
+
+Estudiantes:
+* Juan Andrés
+* Eliana
+* Leonardo
+* Daniela
+* Nicolás
+* Ramón
+
+
+Canales:
+Google Drive: https://drive.google.com/drive/folders/1TVH2p-sOBYix0m64L0cwrfdJA5MPs1j5?usp=sharing
+Mattermost:
+https://mattermost.redclara.net/signup_user_complete/?id=zfec7frqyt81fgxuirdhthn9pe
+
+
+Clases:
+Las clases serán grabadas y compartidas en este google drive, previo consentimiento explícito de tod@s, y con el compromiso de absoluta confidencialidad: para uso exclusivo de las personas participantes del curso. (Todos dieron su aprobación)
+
+
+Links útiles para instalar Linux, la próxima clase o antes:
+* https://ubuntu.com/download/desktop
+* https://rufus.ie/
+* https://blog.desdelinux.net/como-cambiar-la-configuracion-del-bios-para-arrancar-linux-desde-un-live-cdusb/
+
+
+CONTENIDOS:
+* Bash
+* git+github
+* Python: Numpy, Matplotlib, Pandas, Scipy, Simpy
+* Visualización de datos
+* Consideraciones de diseño
+* Automatización de tareas: bash, Makefiles (quizás)
+* Reproducibilidad
+* Buenas prácticas de programación:
+   * Debugging, Profiling, Testing, Guia de estilo, Documentación, Licencias
+
+
+Evaluación:
+
+
+Tareas
+	Proyecto
+(podría ser en parejas)
+	Exposición
+(video + ejercicio práctico)
+	Quices
+	40%
+	30%
+	20%
+	10%
+	
+
+Material para la próxima clase:
+https://laconga.redclara.net/courses/modulo-datos/claseMD02/claseMD02.html
+https://youtu.be/eMIlNpvxF7w
+
+
+LACoNGA PlayList
+https://www.youtube.com/playlist?list=PLGC_ZB9twAHuShI1WEIURNCyRJSgQ6stc
+
+
+
+
+Clase 8 de Marzo
+
+
+Se trabajaron dudas terminal.
+* Para agregar el PATH, se debe agregar el final del archivo .bashrc lo siguiente: 
+export PATH="/home/nombredeusuario/anaconda3/bin:$PATH"
+* Para instalar:
+   * sudo apt-get install 
+   * sudo apt install
+* Para que los programas no bloqueen la terminal agregar el símbolo & al final.
+
+
+
+
+Tareas:
+* Instalación Anaconda y Linux.
+* Terminar de revisar instalación Python en PC (Tener instalado para próxima clase).
+* Revisar notebooks del “Material de apoyo” hasta estructuras.
+
+
+
+
+
+
+Clase 10 de marzo
+Notas hechas por: Eliana
+
+
+Se discutió sobre: 
+* Diferencias entre Matlab y Python.
+* Diferencias entre lenguajes de programación en general.
+* Python, un lenguaje interpretado y de alto nivel.
+* Se aclararon las dudas que surgieron de realizar el módulo Estructuras. 
+
+
+Tareas:
+* Preparar los módulos:
+Estructuras
+Funciones y módulos
+* Ver el video de la clase 3: Python para datos e investigación
+https://laconga.redclara.net/courses/modulo-datos/claseMD03/claseMD03.html
+* Quiz para la próxima clase. 
+
+
+ Clase 15 de marzo(LEO)
+
+
+Discusiones:
+En el desarrollo de la clase se discutió sobre:
+* Aclaración de dudas del estudiante Leonardo sobre diccionarios y funciones.
+* Playlist de las clases de LA CoNGA, se pueden acceder en el siguiente link:
+shorturl.at/dijvG
+Ver clases 2 y 3. y las siguientes son 5 y 7.
+* Explicación sobre el uso de Diccionarios en general y la posibilidad de trabajar con diccionarios dentro de otros diccionarios.
+* Para analizar cuáles son las claves de los elementos que tiene un diccionario, con el comando: Nombre_diccionario.keys()
+* Discusiones sobre funciones. Podemos tener varias estructuras de decisión dentro de la función o retornar varios valores de esta.
+* Se habló sobre list comprehension: Es una técnica muy útil para hacer varias cuentas en una sola línea sin tener que usar la estructura for.
+* Aplicación de quiz.
+
+
+Tareas y deberes:
+* Clase 3 revisar completa. Revisar listas de ejercicios y pensar en el desarrollo de ellos.
+* Estudiar sobre List comprehension.
+* Se deja tres ejercicios para pensar y 3 personas lo presentan en la próxima clase. En el siguiente link pueden encontrarlos.
+shorturl.at/agkCI
+obs: Del segundo punto solo hacer la primera parte. Del tercero, se debe hacer algunas modificaciones, cambiando la Universidad por la ciudad de origen.
+Los estudiantes que deben presentar los ejercicios resueltos son:
+* Eliana hace la primera.
+* Leonardo el segundo.
+* Nicolas el tercero.
+ 
+
+
+ Clase 17 de marzo (DANIELA)
+
+
+* Se realiza la respectiva presentación y discusión de los 3 ejercicios asignados la clase pasada.
+
+
+* Se asignan los 3 ejercicios adjuntos, para su respectivo análisis y presentación.
+
+
+1. Ramón
+2. Daniela 
+3. Juan Andrés
+
+
+
+
+Ejercicios adicionales:
+1. Escriba una función en python que reciba una cadena de caracteres y encuentre cuál de ellos es el que más se repite, informando cuál fue y cuántas veces aparece
+
+2. Escriba un programa en python que reciba una fecha de nacimiento en formato 'dd/mm/yy' para informar el signo zodiacal según el zodiaco chino
+
+3. Escriba un programa que reciba como entrada una lista de diccionarios, donde cada diccionario en la lista tiene como 'keys' los nombres de algunas frutas, y como 'values' una cantidad de ellas. Por ejemplo, uno de los diccionarios podría lucir así: {'naranjas':10 , 'uvas':25 , 'fresas': 9}. Las frutas se pueden repetir en algunos diccionarios con distintos 'values', pero no necesariamente aparecen todas en todos los diccionarios. Es decir, un segundo diccionario de la lista podría ser: {'mangos':19 , 'uvas':21 , 'naranjas':3}. A partir de la lista de entrada, su programa debe construir un diccionario que tiene como 'keys' todas las frutas posibles, sin repetición, y como 'values', la suma de los 'values' de cada fruta en los distintos diccionarios individuales (es decir, cuántas naranjas hay en total, cuántas fresas en total, etc...).
+
+
+Clase 24 de marzo(Nicolás)
+Se revisan los ejercicios realizados por Eliana, Leonardo, Nicolás, Ramón y Daniela
+Se comenta la función np.ceil() y np.floor() para el techo y el piso de un número (parte entera).
+Se recomienda no poner definiciones dentro de definiciones, y también se recomienda usar funciones ya creadas en vez de crearlas por ejemplo la de el factorial.
+Se muestra la función np.array() que convierte una lista en un array y np.mean() que calcula la media de valores. 
+Se explica la función ord que retorna el valor unico de cada carácter y la función max() y min() que retorna el valor máximo y mínimo respectivamente.
+Se presenta la función datetime de el paquete datetime para trabajr fechas y podr extraer facilmente el valor del día, mes o año
+
+
+
+
+
+
+
+
+Clase 25 de marzo
+   * El estudiante Juan Olmos presentó el ejercicio 6 correspondiente a la tarea 1.
+   * Se habló sobre ejemplos gráficos de matplotlib , los cuales pueden ser consultados en el siguiente link : https://matplotlib.org/2.0.2/gallery.html 
+   * Se resolvieron dudas sobre la posición de los gráficos en los arreglos regulares e irregulares 
+   * Se explicó el funcionamiento del comando plt.xlim.
+
+
+
+Clase 26 de marzo
+Ejercicios matplotlib
+https://matplotlib.org/2.0.2/gallery.html
+
+
+
+
+Se resuelven dudas sobre:
+   * ax1.xaxis.set_ticks_position('bottom') #Ejes x son spin Bottom
+   * ax1.spines['bottom'].set_position(('data',0)) # ('data',0) significa que se ponga el eje en 0
+
+
+Acomoda legend horizontalmente left, verticalmente en upper:
+   * plt.legend(loc='upper left', frameon=False)
+
+
+Clases reposición: Lunes y miercoles de 7:15-7:55 am
+
+
+Tarea:
+Crear un gráfico con algún trabajo personal viejo y personalizarlo de diferentes maneras y luego decir cual es la mejor. (Para el lunes)
+
+
+
+
+Clase 29 de marzo 
+Notas hechas por: Juan Andrés
+Como suma python listas y escalares? https://www.geeksforgeeks.org/python-broadcasting-with-numpy-arrays/ 
+
+
+
+
+Clase 05 de abril
+
+
+Notas hechas por: Eliana
+
+
+Durante la clase se discutió:
+
+
+   * Recomendaciones de Edward Tufte para la realización de gráficos: Data Ink Ratio, Chart Junk y Visualization Wheel (4 videos que están en Videos_visualizacion).
+   * Gráfico de Daniela Jaimes. Se hablaron sobre los siguiente comandos: ---
+
+
+Tareas:
+
+
+   * Ver el video de la clase 5: https://www.youtube.com/watch?v=gB3nwqXYO1o&list=PLGC_ZB9twAHuShI1WEIURNCyRJSgQ6stc&index=5
+   * Trabajar el material:
+https://laconga.redclara.net/courses/modulo-datos/claseMD05/claseMD05.html
+   * Animar la gráfica de Leonardo; trabajar con posiciones fijas, variando las amplitudes.
+   * Agregar a la gráfica de Juan Andrés:
+   * Dos variables más: género(0, 1, 2) y peso
+   * Variar los colores y el tamaño
+   * Tratar de visualizar las 4 variables
+   * Establecer niveles (líneas verticales).
+   * Montar la tarea de la gráfica quienes no lo hayan hecho. 
+
+
+Clase 07 de abril
+
+
+Notas hechas por: Leonardo
+
+
+La clase inicia con la realización de un quiz sobre la tarea dejada en la clase anterior, que consistía en ver el video de la clase #5 de La CoNGA, sobre la librería Numpy y las guías de estilo PEP8.
+
+
+Durante la clase se discutió:
+
+
+   * Repaso rápido del Notebook sobre las gaussianas 2D, donde lo más novedoso a rescatar es el comando np.meshgrid(x,y) que permite crear a partir de dos vectores dados, los cruza para formar una malla y así poder estudiar gráficos en 3D y análogos, permitiendo graficar funciones de dos variables.
+   * Se resolvieron algunas dudas puntuales en este notebook, de los cuales se recomienda cuidar los errores limpiar o refrescar el kernel del Jupyter Notebook.
+   * Se muestra una de las tareas dejadas en en la clase anterior, que consistía en hacer una animación de una cuerda vibrante usando la función animate(). 
+   * El profesor hace algunas apreciaciones importantes sobre qué es un frame, cuántos deben colocarse por segundo para que el ojo humano logre crear la sensación de continuidad en una animación (24 frames/s). 
+   * Se deja de tarea para @nicolasl presente sus ideas sobre cómo resolver el ejercicio:
+Agregar a la gráfica de Juan Andrés:
+   * Dos variables más: género(0, 1, 2) y peso
+   * Variar los colores y el tamaño
+   * Tratar de visualizar las 4 variables
+   * Establecer niveles (líneas verticales).
+   * Para poder juntar dos  vectores o arrays en una sola, se recomienda usar la función np.concatenate(), para poder concatenar dos arrays en uno solo.
+   * El profesor explica sobre comandos mágicos. Quién desee profundizar sobre esto se recomienda revisar https://ipython.readthedocs.io/en/stable/interactive/magics.html
+   * Es posible tener un array 2D, 3D, 4D,..., nD. donde se puede acceder a cada elemento de esta array(solo hay un número real o complejo) se accede dando la posición de este mediante una tupla de n-números.
+   * Para generar una matriz aleatoria de 4D, es posible con el siguiente comando np.random.randint(low = a, high = b, size = (3, 3, 4, 5))
+   * Se explica sobre el uso np.random.seed(1234) donde el profesor hace la aclaración sobre los números aleatorios no existen, solo existen unas cadenas pre computadas, para el generador de números aleatorios (pseudoaleatorios). Aquí tomamos una semilla para mejorar la reproducibilidad de los códigos. 
+   * https://ipython.readthedocs.io/en/stable/interactive/magics.html para estudiar o profundizar sobre las guías de estilo PEP8. 
+
+
+Tareas:
+   * Traer un buen gráfico y un mal gráfico de una revista, artículo de investigación o periódico que se haya encontrado.‌ ‌revista,‌ ‌artículo‌ ‌de‌ ‌investigación‌ ‌o‌ ‌
+   * periódico‌ ‌que‌ ‌se‌ ‌haya‌ ‌encontrado.‌ ‌
+   * Terminar‌ ‌de‌ ‌revisar‌ ‌el‌ ‌notebook‌ ‌sobre‌ ‌la‌ ‌librería‌ ‌numpy.‌ ‌ ‌
+   * Revisar‌ ‌el‌ ‌vídeo‌ ‌de‌ ‌la‌ ‌conferencia‌ ‌realizada‌ ‌en‌ ‌la‌ ‌clase‌ ‌uno(1)‌ ‌donde‌ ‌se‌ ‌explican‌ ‌los‌ ‌detalles‌ ‌sobre‌ ‌Bash‌ ‌y‌ ‌Git,‌ ‌Git‌ ‌Hub.‌ ‌
+   * https://www.youtube.com/watch?v=oZm6F_f9o4Q‌ ‌
+
+
+
+
+Clase 12 de abril
+
+
+Notas hechas por: Daniela
+
+
+Durante la primera parte de la clase se presentó y discutió la tarea del buen y mal gráfico en el siguiente orden: Leonardo, Daniela, Juan Andrés y Eliana.
