@@ -1,27 +1,27 @@
-﻿Clase 07 de abril
+# Clase 07 de abril
 
-Notas hechas por: Leonardo
+## Notas hechas por: Leonardo
 
 La clase inicia con la realización de un quiz sobre la tarea dejada en la clase anterior, que consistía en ver el video de la clase #5 de La CoNGA, sobre la librería Numpy y las guías de estilo PEP8.
 
 Durante la clase se discutió:
 
-   * Repaso rápido del Notebook sobre las gaussianas 2D, donde lo más novedoso a rescatar es el comando np.meshgrid(x,y) que permite crear a partir de dos vectores dados, los cruza para formar una malla y así poder estudiar gráficos en 3D y análogos, permitiendo graficar funciones de dos variables.
-   * Se resolvieron algunas dudas puntuales en este notebook, de los cuales se recomienda cuidar los errores limpiar o refrescar el kernel del Jupyter Notebook.
-   * Se muestra una de las tareas dejadas en en la clase anterior, que consistía en hacer una animación de una cuerda vibrante usando la función animate(). 
-   * El profesor hace algunas apreciaciones importantes sobre qué es un frame, cuántos deben colocarse por segundo para que el ojo humano logre crear la sensación de continuidad en una animación (24 frames/s). 
-   * Se deja de tarea para @nicolasl presente sus ideas sobre cómo resolver el ejercicio:
+   1. Repaso rápido del Notebook sobre las gaussianas 2D, donde lo más novedoso a rescatar es el comando np.meshgrid(x,y) que permite crear a partir de dos vectores dados, los cruza para formar una malla y así poder estudiar gráficos en 3D y análogos, permitiendo graficar funciones de dos variables.
+   2. Se resolvieron algunas dudas puntuales en este notebook, de los cuales se recomienda cuidar los errores limpiar o refrescar el kernel del Jupyter Notebook.
+   3. Se muestra una de las tareas dejadas en en la clase anterior, que consistía en hacer una animación de una cuerda vibrante usando la función animate(). 
+   4. El profesor hace algunas apreciaciones importantes sobre qué es un frame, cuántos deben colocarse por segundo para que el ojo humano logre crear la sensación de continuidad en una animación (24 frames/s). 
+   5. Se deja de tarea para @nicolasl presente sus ideas sobre cómo resolver el ejercicio:
 Agregar a la gráfica de Juan Andrés:
-   * Dos variables más: género(0, 1, 2) y peso
+    Dos variables más: género(0, 1, 2) y peso
    * Variar los colores y el tamaño
    * Tratar de visualizar las 4 variables
    * Establecer niveles (líneas verticales).
-   * Para poder juntar dos  vectores o arrays en una sola, se recomienda usar la función np.concatenate(), para poder concatenar dos arrays en uno solo.
-   * El profesor explica sobre comandos mágicos. Quién desee profundizar sobre esto se recomienda revisar https://ipython.readthedocs.io/en/stable/interactive/magics.html
-   * Es posible tener un array 2D, 3D, 4D,..., nD. donde se puede acceder a cada elemento de esta array(solo hay un número real o complejo) se accede dando la posición de este mediante una tupla de n-números.
-   * Para generar una matriz aleatoria de 4D, es posible con el siguiente comando np.random.randint(low = a, high = b, size = (3, 3, 4, 5))
-   * Se explica sobre el uso np.random.seed(1234) donde el profesor hace la aclaración sobre los números aleatorios no existen, solo existen unas cadenas pre computadas, para el generador de números aleatorios (pseudoaleatorios). Aquí tomamos una semilla para mejorar la reproducibilidad de los códigos. 
-   * https://ipython.readthedocs.io/en/stable/interactive/magics.html para estudiar o profundizar sobre las guías de estilo PEP8. 
+   6. Para poder juntar dos  vectores o arrays en una sola, se recomienda usar la función np.concatenate(), para poder concatenar dos arrays en uno solo.
+   7. El profesor explica sobre comandos mágicos. Quién desee profundizar sobre esto se recomienda revisar https://ipython.readthedocs.io/en/stable/interactive/magics.html
+   8. Es posible tener un array 2D, 3D, 4D,..., nD. donde se puede acceder a cada elemento de esta array(solo hay un número real o complejo) se accede dando la posición de este mediante una tupla de n-números.
+   9. Para generar una matriz aleatoria de 4D, es posible con el siguiente comando np.random.randint(low = a, high = b, size = (3, 3, 4, 5))
+   10. Se explica sobre el uso np.random.seed(1234) donde el profesor hace la aclaración sobre los números aleatorios no existen, solo existen unas cadenas pre computadas, para el generador de números aleatorios (pseudoaleatorios). Aquí tomamos una semilla para mejorar la reproducibilidad de los códigos. 
+   11. https://ipython.readthedocs.io/en/stable/interactive/magics.html para estudiar o profundizar sobre las guías de estilo PEP8. 
 
 
 Tareas:
