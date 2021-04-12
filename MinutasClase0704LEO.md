@@ -17,15 +17,14 @@ Agregar a la gráfica de Juan Andrés:
    * Tratar de visualizar las 4 variables
    * Establecer niveles (líneas verticales).
 6. Para poder juntar dos  vectores o arrays en una sola, se recomienda usar la función np.concatenate(), para poder concatenar dos arrays en uno solo.
-7. El profesor explica sobre comandos mágicos. Quién desee profundizar sobre esto se recomienda revisar [link](https://ipython.readthedocs.io/en/stable/interactive/magics.html "Comandos Mágicos")
+7. El profesor explica sobre comandos mágicos. Quién desee profundizar sobre esto se recomienda revisar [link](https://ipython.readthedocs.io/en/stable/interactive/magics.html "Comandos Mágicos").
 8. Es posible tener un array 2D, 3D, 4D,..., nD. donde se puede acceder a cada elemento de esta array(solo hay un número real o complejo) se accede dando la posición de este mediante una tupla de n-números.
 9. Para generar una matriz aleatoria de 4D, es posible con el siguiente comando `np.random.randint(low = a, high = b, size = (3, 3, 4, 5))`.
-10. Se explica sobre el uso `np.random.seed(1234)` donde el profesor hace la aclaración sobre los números aleatorios no existen, solo existen unas cadenas pre computadas, para el generador de números aleatorios (pseudoaleatorios). Aquí tomamos una semilla para mejorar la reproducibilidad de los códigos. [
-11. [link](https://ipython.readthedocs.io/en/stable/interactive/magics.html para estudiar o profundizar sobre las guías de estilo PEP8 "PED8"). Aquí podemos ver todo lo relacionado con las guías de estilo PEP8.
+10. Se explica sobre el uso `np.random.seed(1234)` donde el profesor hace la aclaración sobre los números aleatorios no existen, solo existen unas cadenas pre computadas, para el generador de números aleatorios (pseudoaleatorios). Aquí tomamos una semilla para mejorar la reproducibilidad de los códigos. 
+11. Aquí podemos ver todo lo relacionado con las guías de estilo PEP8 [link](https://ipython.readthedocs.io/en/stable/interactive/magics.html "guías de estilo PED8"). 
 
 ## Tareas:
    * Traer un buen gráfico y un mal gráfico de una revista, artículo de investigación o periódico que se haya encontrado.‌ ‌revista,‌ ‌artículo‌ ‌de‌ ‌investigación‌ ‌o‌ ‌
    * periódico‌ ‌que‌ ‌se‌ ‌haya‌ ‌encontrado.‌ ‌
-   * Terminar‌ ‌de‌ ‌revisar‌ ‌el‌ ‌notebook‌ ‌sobre‌ ‌la‌ ‌librería‌ ‌numpy.‌ ‌ ‌
-   * Revisar‌ ‌el‌ ‌vídeo‌ ‌de‌ ‌la‌ ‌conferencia‌ ‌realizada‌ ‌en‌ ‌la‌ ‌clase‌ ‌uno(1)‌ ‌donde‌ ‌se‌ ‌explican‌ ‌los‌ ‌detalles‌ ‌sobre‌ ‌**Bash‌ ‌y‌ ‌Git,‌ ‌Git‌ ‌Hub**.‌ ‌
-   * [Vídeo](https://www.youtube.com/watch?v=oZm6F_f9o4Q‌) ‌
+   * Terminar‌ ‌de‌ ‌revisar‌ ‌el‌ ‌notebook‌ ‌sobre‌ ‌la‌ ‌librería‌ ‌*Numpy*.‌ ‌ ‌
+   * Revisar‌ ‌el‌ ‌vídeo‌ ‌de‌ ‌la‌ ‌conferencia‌ ‌realizada‌ ‌en‌ ‌la‌ ‌clase‌ ‌uno(1)‌ ‌donde‌ ‌se‌ ‌explican‌ ‌los‌ ‌detalles‌ ‌sobre‌ ‌**Bash‌ ‌y‌ ‌Git,‌ ‌Git‌ ‌Hub** [Vídeo](https://www.youtube.com/watch?v=oZm6F_f9o4Q‌ "Bash‌ ‌y‌ ‌Git,‌ ‌Git‌ ‌Hub").
