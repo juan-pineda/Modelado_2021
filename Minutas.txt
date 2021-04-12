@@ -1,22 +1,14 @@
 ﻿MINUTAS MODELADO MATEMÁTICO 2021
 
-
-
-
 Clase 24 de Febrero
-
 
 Taller de git y github online: https://www.youtube.com/watch?v=oZm6F_f9o4Q
 
-
-
-
+------------------------------------------------------------------------------------------
 Clase 3 de Marzo
-
 
 Profesor : Juan Carlos Basto Pineda
 juan.basto.pineda@gmail.com
-
 
 Estudiantes:
 * Juan Andrés
@@ -25,7 +17,6 @@ Estudiantes:
 * Daniela
 * Nicolás
 * Ramón
-
 
 Canales:
 Google Drive: https://drive.google.com/drive/folders/1TVH2p-sOBYix0m64L0cwrfdJA5MPs1j5?usp=sharing
@@ -78,9 +69,7 @@ https://youtu.be/eMIlNpvxF7w
 LACoNGA PlayList
 https://www.youtube.com/playlist?list=PLGC_ZB9twAHuShI1WEIURNCyRJSgQ6stc
 
-
-
-
+---------------------------------------------------------------------------------------------
 Clase 8 de Marzo
 
 
