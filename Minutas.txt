@@ -297,3 +297,12 @@ Notas hechas por: Daniela
 
 
 Durante la primera parte de la clase se presentó y discutió la tarea del buen y mal gráfico en el siguiente orden: Leonardo, Daniela, Juan Andrés y Eliana.
+
+# Clase 14 de abril
+**Notas hechas por:** Juan Andres.
+
+Tareas:
+* Terminar swcarpentry
+* Revisar branches y merges.
+* Tomar notas propias en un .md para ver revision de conflictos
+
