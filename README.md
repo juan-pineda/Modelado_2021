@@ -11,6 +11,7 @@ Repositorio que contiene el material de la asignatura
 
 ## Minutas
 
+* [Marzo 8](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/03_08_Juan.md)
 * [Marzo 15](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/03_15_LEO.md)
 * [Marzo 24](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/03_24_NICOLAS.md)
 * [Abril 07](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/04_07_LEO.md)
