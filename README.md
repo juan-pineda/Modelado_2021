@@ -11,3 +11,11 @@ Repositorio que contiene el material de la asignatura
 
 ## Minutas
 * [Abril 14](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/04_14_Juan.md)
+
+| Mes         | Marzo          | Abril           |
+| ------------| ---------------| --------------- |
+| Juan Andrés | 8 , 26, 29     | 14              |
+| Eliana      | 10, 25         | 5, 19           |
+| Leonardo    | 15, 24         | 7, 21           |
+| Daniela     | 17             | 12, 26          |
+
