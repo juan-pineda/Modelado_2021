@@ -16,6 +16,7 @@ Repositorio que contiene el material de la asignatura
 * [Abril 07](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/04_07_LEO.md)
 * [Abril 14](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/04_14_Juan.md)
 * [Abril 21](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/04_21_LEO.md)
+* [Mayo 5](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/05_05_Juan.md)
 
 
 | Mes         | Marzo          | Abril           |
