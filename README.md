@@ -1,6 +1,7 @@
 # Modelado\_1_2021
 Repositorio que contiene el material de la asignatura
 
+## [Videos de clase](https://drive.google.com/drive/folders/1fIgm-Z1lr8rRgyufmapgvj6V9Nx8j5Un?usp=sharing)
 
 ## Novedades:
 * No asistencia de Leonardo (enfermedad).
