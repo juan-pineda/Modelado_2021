@@ -7,3 +7,6 @@ Repositorio que contiene el material de la asignatura
 * No asistencia permanente Ramón (personal)
 * Retiramos a Nicolás de las lista de los editores
 
+
+## Minutas
+* [Abril 14](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/04_14_Juan.md)
