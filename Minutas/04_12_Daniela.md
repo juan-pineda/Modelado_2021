@@ -1,9 +1,6 @@
 # Clase Abril 12, 2021
 **Notas hechas por:** Daniela Jaimes G
 
-### Relevantes:
-* Proxima clase el viernes 7 de mayo, 6.20am-8am.
-* Ir pensando en el proyecto final. Mayo 17.
 
 ***
 
