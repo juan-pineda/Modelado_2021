@@ -15,6 +15,7 @@
 * Pensar en un proyecto que nos sirva para avanzar en nuestro trabajo de grado de maestría (el cual se trabajará en entornos para practicar lo visto en clase).
 
 * Pensar en un tema de exposición relacionado con ciencia de datos contemporáneas en los cuales quisiéramos contribuir.
+
 ***
 
 ### [Video-clase](https://drive.google.com/drive/u/0/folders/1JovWKmgJ8Bxs8PLiW4apA6GyF61mzKF7)
