@@ -1,5 +1,10 @@
+Universidad Industriual de Santander
+Maestría en Matemática Aplicada
+
 # Modelado\_1_2021
+
 Repositorio que contiene el material de la asignatura
+
 
 ## [Videos de clase](https://drive.google.com/drive/folders/1fIgm-Z1lr8rRgyufmapgvj6V9Nx8j5Un?usp=sharing)
 
@@ -36,4 +41,7 @@ Repositorio que contiene el material de la asignatura
 | Eliana      | 10, 25         | 5, 19           |
 | Leonardo    | 15, 24         | 7, 21           |
 | Daniela     | 17             | 12, 26          |
+
+Esto es una prueba de algunos cambios realizados el día 05_10, desde la rama Variante.
+
 
