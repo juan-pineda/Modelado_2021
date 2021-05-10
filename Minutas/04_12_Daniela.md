@@ -23,4 +23,4 @@
 	
 ***
 
-### [Video-clase](https://laconga.redclara.net/courses/modulo-datos/claseMD02/claseMD02.html)
+### [Video-clase](https://drive.google.com/drive/u/0/folders/1kXdOEPkPyix0OVGVMEVY_xugTlCyv_-S)
