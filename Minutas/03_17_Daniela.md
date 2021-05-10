@@ -23,3 +23,8 @@
 
 
 - 3.  Escriba un programa que reciba como entrada una lista de diccionarios, donde cada diccionario en la lista tiene como 'keys' los nombres de algunas frutas, y como 'values' una cantidad de ellas. Por ejemplo, uno de los diccionarios podría lucir así: {'naranjas':10 , 'uvas':25 , 'fresas': 9}. Las frutas se pueden repetir en algunos diccionarios con distintos 'values', pero no necesariamente aparecen todas en todos los diccionarios. Es decir, un segundo diccionario de la lista podría ser: {'mangos':19 , 'uvas':21 , 'naranjas':3}. A partir de la lista de entrada, su programa debe construir un diccionario que tiene como 'keys' todas las frutas posibles, sin repetición, y como 'values', la suma de los 'values' de cada fruta en los distintos diccionarios individuales (es decir, cuántas naranjas hay en total, cuántas fresas en total, etc...).
+
+***
+
+### [Video-clase](https://drive.google.com/drive/u/0/folders/1SHY402U55NjJJnBnV-OhAQiUrzduhCQg)
+
