@@ -18,6 +18,4 @@ No se dejan tareas o deberes en esta clase.
 
 ## Link a videos de la clase.
 
-1. [clase_03_24_a](https://drive.google.com/file/d/10CrbF5K7ZYBXAlBryYxMKp8ju79aMced/view?usp=sharing)‌
-1. [clase_03_24_b](https://drive.google.com/file/d/1lZtcfgH6vC0hx86ydmaH1LFCq5_Lzb1f/view?usp=sharing)
-1. [clase_03_24_c](https://drive.google.com/file/d/1k4zS14WvWU-VUlYMQIo-B19YdW30a3H9/view?usp=sharing)
+[clase_03_24](https://drive.google.com/drive/folders/1rYx-0qf94cLm9ECgbwRCgh-eHg7kOHeG?usp=sharing)‌
