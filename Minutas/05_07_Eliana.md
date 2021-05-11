@@ -20,12 +20,12 @@
 **Tareas**
 
 1. Migrar las minutas a GitHub, una por cada fecha y en formato .md.
-- Juan Ándrés: 803_08, 03_26, 03_29 y 04_14
+- Juan Ándrés: 03_08, 03_26, 03_29 y 04_14
 - Eliana: 03_10, 03_25, 04_05 y 04_19
 - Leonardo: 03_15, 03_24, 04_7 y 04_21
 - Daniela: 03_17, 04_12 y 04_26
 
-2. Abrir una carpeta para cada tarea, con un README y la descripción de la tarea en un archivo aparte; adicionalmente, trasladar cada tarea a una carpeta específica dento de 'Tareas' con la notación Tarea_mes_día, unificando los nombres de archivos con los nombres de las personas. 
+2. Abrir una carpeta para cada tarea, con un README y la descripción de la tarea en un archivo aparte; adicionalmente, trasladar cada tarea a una carpeta específica dentro de 'Tareas' con la notación Tarea_mes_día, unificando los nombres de archivos con los nombres de las personas. 
 
 3. Se dejó como tarea (miércoles 12 de mayo) presentar una propuesta sobre el proyecto de cada quien: título, descripción y metodología. 
 
