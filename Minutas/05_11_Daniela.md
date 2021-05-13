@@ -10,13 +10,17 @@ Se continúa con el estudio del notebook orientado a [Objetos](https://laconga.r
 
 ` def __init__(self):` y `def __init__(self, carga, masa, posicion): `. En el primer caso se define el constructor **init** sin tener en cuenta ningún atributo a la hora de ser llamado, en cambio, en el segundo caso se define con los atributos **masa, carga y posición**, los cuales OBLIGATORIAMENTE tienen que ser especificados a la hora de utilizar el constructor.
     
+* Con el ejemplo anterior, si la **posición** se define como un diccionario, pero al constructor **init** se le agrega algo diferente, como una lista o tupla, se genera un **Duck Typing** y el constructor lo va recibir. El problema va ser más adelante cuando se requiera utilizar ese atributo en los métodos.
+
+* Se explica el concepto de **self**, el cual va asociado con los objetos y es necesario agregarlo al principio de los constructores y métodos para hacer referencia a la inicialización de los atributos de ese objeto, así:
+`self.atributo = algoritmo relacionado con el atributo` 
+
+* El método estático (`@staticmethod`) consiste en un método donde al crear la instancia de la clase, ese objeto trae consigo las funciones definidas en el método, donde esa función puede o no depender de ciertos atributos.
 
 
 *** 
 ### Tareas:
-* Pensar en un proyecto que nos sirva para avanzar en nuestro trabajo de grado de maestría (el cual se trabajará en entornos para practicar lo visto en clase).
-
-* Pensar en un tema de exposición relacionado con ciencia de datos contemporáneas en los cuales quisiéramos contribuir.
+* Quiz de lo visto para la siguiente clase.
 
 ***
 
