@@ -8,13 +8,10 @@ Se continúa con el estudio del notebook orientado a [Objetos](https://laconga.r
 
 * Se explica la diferencia entre colocar 
 
-`$ def __init__(self):
-        """ Inicializa la partícula con valores por defecto
-            para carga c, masa m y posición r.
-        """
-        self.c = 0
-        self.m = 0
-        self.r = {'x': 0, 'y': 0, 'z': 0}` 
+`$ def __init__(self):` 
+`         self.c = 0` 
+`         self.m = 0` 
+`         self.r = {'x': 0, 'y': 0, 'z': 0}` 
     
 
 
