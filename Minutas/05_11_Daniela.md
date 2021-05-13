@@ -17,6 +17,8 @@ Se continúa con el estudio del notebook orientado a [Objetos](https://laconga.r
 
 * El método estático (`@staticmethod`) consiste en un método donde al crear la instancia de la clase, ese objeto trae consigo las funciones definidas en el método, donde esa función puede o no depender de ciertos atributos.
 
+* Una subclase es una clase con los atributos y los métodos de otra clase (la clase base), y además, los nuevos atributos que se le quieran agregar.
+
 
 *** 
 ### Tareas:
