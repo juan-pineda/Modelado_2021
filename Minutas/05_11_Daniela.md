@@ -20,7 +20,7 @@ Se continúa con el estudio del notebook orientado a [Objetos](https://laconga.r
 
 *** 
 ### Tareas:
-* Quiz de lo visto para la siguiente clase.
+* Quiz de lo visto hoy para la siguiente clase.
 
 ***
 
