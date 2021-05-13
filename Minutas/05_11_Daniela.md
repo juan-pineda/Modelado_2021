@@ -14,7 +14,7 @@ Se continúa con el estudio del notebook orientado a [Objetos](https://laconga.r
         """
         self.c = 0
         self.m = 0
-        self.r = {'x': 0, 'y': 0, 'z': 0}´ 
+        self.r = {'x': 0, 'y': 0, 'z': 0}` 
     
 
 
