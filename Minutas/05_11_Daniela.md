@@ -4,11 +4,18 @@
 
 ### Temas discutidos:
 
-Se continúa con el estudio del notebook orientado a Objetos:
+Se continúa con el estudio del notebook orientado a [Objetos](https://laconga.redclara.net/courses/modulo-datos/claseMD07/materialesMD07/objetos.html)
 
 * Se explica la diferencia entre colocar 
 
-`$ conda create --name NombreDelProyecto python=3.7.1 scipy=1.2.1 matplotlib` 
+`$ def __init__(self):
+        """ Inicializa la partícula con valores por defecto
+            para carga c, masa m y posición r.
+        """
+        self.c = 0
+        self.m = 0
+        self.r = {'x': 0, 'y': 0, 'z': 0}´ 
+    
 
 
 *** 
