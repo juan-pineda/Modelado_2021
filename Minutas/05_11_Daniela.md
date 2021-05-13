@@ -8,10 +8,7 @@ Se continúa con el estudio del notebook orientado a [Objetos](https://laconga.r
 
 * Se explica la diferencia entre colocar 
 
-`$ def __init__(self):` \\
-`         self.c = 0` 
-`         self.m = 0` 
-`         self.r = {'x': 0, 'y': 0, 'z': 0}` 
+` def __init__(self):` y `def __init__(self, carga, masa, posicion): `. En el primer caso se define el constructor **init** sin tener en cuenta ningún atributo a la hora de ser llamado, en cambio, en el segundo caso se define con los atributos **masa, carga y posición**, los cuales OBLIGATORIAMENTE tienen que ser especificados a la hora de utilizar el constructor.
     
 
 
