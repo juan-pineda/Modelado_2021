@@ -20,7 +20,7 @@ Comandos vistos en clases:
 - ls -F - Se clasifica la salida agregando un marcador a los archivos y directorios (/, @, *)
 - ls -s -  Muestra el tamaño de los archivos y directorios
 - ls - S - Ordena los archivos y directorios por tamaño 
-- s - R - 
+- s - R - Muestra los archivos con orden invertido
 4. cd - cambiar de ubicaciones.
 5. mkdir - Crear un directorio
 6. touch - Crear archivos vacíos
