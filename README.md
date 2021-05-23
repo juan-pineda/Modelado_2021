@@ -36,7 +36,7 @@ Repositorio que contiene el material de la asignatura
 * [Mayo 10](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/05_10_LEO.md)
 * [Mayo 11](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/05_11_Daniela.md)
 * [Mayo 12](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/05_12_Juan.md)
-
+* [Mayo 19](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/05_19_Eliana.md)
 
 
 | Mes         | Marzo          | Abril           | Mayo   |Junio    |
