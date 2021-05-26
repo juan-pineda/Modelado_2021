@@ -41,10 +41,10 @@ Repositorio que contiene el material de la asignatura
 
 | Mes         | Marzo          | Abril           | Mayo   |Junio    |
 | ------------| --------------:| --------------: |-------:|--------:|
-| Juan Andrés | 8 , 26, 29     | 14              |12,31   |14
-| Eliana      | 10, 25         | 5, 19           |7,19    |2,16
-| Leonardo    | 15, 24         | 7, 21           |10,24   |7
-| Daniela     | 17             | 12, 26          |11,26   |9
+| Juan Andrés | 8 , 26, 29     | 14              |12,31   |7
+| Eliana      | 10, 25         | 5, 19           |7,19    |9
+| Leonardo    | 15, 24         | 7, 21           |10, 26   |14
+| Daniela     | 17             | 12, 26          |11   |2, 16
 
 Esto es una prueba de algunos cambios realizados el día 05_10, desde la rama Variante.
 
