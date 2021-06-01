@@ -132,3 +132,7 @@ dmypy.json
 .pyre/
 
 Minutas/.DS_Store
+
+Tareas/.DS_Store
+
+Tareas/06_02_Pandas2/.DS_Store
