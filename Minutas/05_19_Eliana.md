@@ -30,3 +30,4 @@ Comandos vistos en clases:
 
 **Tarea**: Terminar el módulo 3.
  
+ [Video de clase](https://drive.google.com/drive/folders/1gCEtgc6uwKwi9bykqHDrj4glKOT0d5Zd)
