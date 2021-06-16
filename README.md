@@ -41,8 +41,7 @@ Repositorio que contiene el material de la asignatura
 * [Mayo 31](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/05_31_Daniela.md)
 * [Junio 14](https://github.com/juan-pineda/Modelado_1_2021/blob/main/Minutas/06_14__LEO.md)
 
-## Proyectos finales
-* Juan A. Olmos [](https://github.com/JuanOlmos/2021_MM1project_AIPytorch)
+
 
 | Mes         | Marzo          | Abril           | Mayo   |Junio    |
 | ------------| --------------:| --------------: |-------:|--------:|
@@ -51,6 +50,6 @@ Repositorio que contiene el material de la asignatura
 | Leonardo    | 15, 24         | 7, 21           |10, 26  |14
 | Daniela     | 17             | 12, 26          |11, 31  |16
 
-Esto es una prueba de algunos cambios realizados el día 05_10, desde la rama Variante.
 
-
+## Proyectos finales
+* Juan A. Olmos [](https://github.com/JuanOlmos/2021_MM1project_AIPytorch)
